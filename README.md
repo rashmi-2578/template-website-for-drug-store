@@ -1,2 +1,2 @@
 # template-website-for-drug-store
-project
+https://github.com/rashmi-2578/template-website-for-drug-store.git
